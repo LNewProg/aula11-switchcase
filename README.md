@@ -1,3 +1,8 @@
+// Programa de um menu de aluguel de motos.
+
+
+
+
 #include <iostream>
 #include <locale.h>
 #define cabeca cout<<"############### MOTORS BIKE RENTAL ################\n    Nós temos a moto que mais combina com você!\n\n\n"
